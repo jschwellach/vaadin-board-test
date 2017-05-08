@@ -1,0 +1,32 @@
+{
+  "name": "vaadin-board",
+  "description": "Polymer element to create flexible responsive layouts and build nice looking dashboard.",
+  "main": "vaadin-board.html",
+  "license": "https://raw.githubusercontent.com/vaadin/vaadin-board/master/LICENSE.txt",
+  "dependencies": {
+    "polymer": "^2.0.0-rc.1",
+    "iron-resizable-behavior": "PolymerElements/iron-resizable-behavior#2.0-preview",
+    "vaadin-license-checker": "vaadin/license-checker#2.0-preview"
+  },
+  "devDependencies": {
+    "app-layout": "PolymerElements/app-layout#2.0-preview",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "^1.0.0-rc.4",
+    "test-fixture": "^2.0.0"
+  },
+  "resolutions": {
+    "test-fixture": "^2.0.0",
+    "polymer": "^2.0.0-rc.1"
+  },
+  "homepage": "https://github.com/vaadin/vaadin-board",
+  "version": "1.0.0-beta1",
+  "_release": "1.0.0-beta1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0-beta1",
+    "commit": "7fcc6eea3fa6a5dc873f34f7111739e7a8c5caeb"
+  },
+  "_source": "https://github.com/vaadin/vaadin-board.git",
+  "_target": "1.0.0-beta1",
+  "_originalSource": "vaadin/vaadin-board"
+}
